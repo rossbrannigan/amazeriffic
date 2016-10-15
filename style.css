@@ -1,5 +1,17 @@
 h1 {
 	font-family: 'Denk One', sans-serif;
+	font-size: xx-large;
+}
+
+h2 {font-size: x-large;}
+
+.important {
+	font-size: larger; /* Makes it a little larger than the parent */
+}
+
+.omePointTwo {
+
+	font-size: 1.2em /* Sets it to 1.2 times the base size */
 }
 
 body {
