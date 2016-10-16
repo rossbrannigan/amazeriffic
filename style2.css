@@ -1,0 +1,52 @@
+h1 {
+	font-family: sans-serif;
+	color: black;
+}
+
+h2.important{
+	font-family: sans-serif;
+	color: grey;
+}
+
+p.relevant{
+	font-family: sans-serif;
+	color: cyan;
+}
+
+p.first {
+	font-family: sans-serif;
+	color: blue;
+}
+
+p.third {
+	font-family: sans-serif;
+	color: brown;
+}
+p.seventh {
+	font-family: sans-serif;
+	color: cyan;
+}
+
+p {
+	font-family: sans-serif;
+	color: green;
+}
+p.a {
+	font-family: sans-serif;
+	color: yellow;
+}
+p.a {
+	font-family: sans-serif;
+	color: red;
+}
+p.second {
+	font-family: sans-serif;
+	color: purple;
+}
+p.fourth {
+	font-family: sans-serif;
+	color: orange;
+}
+
+
+
